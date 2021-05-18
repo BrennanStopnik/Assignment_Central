@@ -1,0 +1,17 @@
+#Variable Name = Variable Value
+num = 5
+name = "BrennanStopnik"
+isPython = True
+sentence = "I really like learning Python. I learned how to breakdown numbers in binary"
+
+#Bonus:
+myNum = 12
+total = num + myNum
+
+print(total)
+
+
+
+
+
+"My name is {0}

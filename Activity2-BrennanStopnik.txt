@@ -1,0 +1,38 @@
+00000000 = 0
+10010100 = 128+16+4= 148
+01101111 = 64+32+8+4+2+1= 111
+10011001 = 64+32+8+1= 105
+11111111 = 128+64+32+16+8+4+2+1= 245
+10110001 = 128+32+16+1= 177
+11100101 = 128+64+32+4+1= 97
+10101010 = 128+32+8+4= 172
+11010101 = 128+64+16+4+1= 213
+11100001 = 128+64+32+1= 225
+10010110 = 128+16+4+2= 150
+10101110100 = 1024+256+64+32+16+4= 2446
+11111101011001 = 8192+4096+2048+1024+512+256+64+16+8+1= 16217
+1101010010101110 = 32768+16384+4096+1024+128+32+8+4+2= 103598
+
+255 = 11111111
+90 = 01011010
+47 = 00101111
+1024 = 10000000000
+674 = 1010100010
+1000 = 1111101000
+2048 = 100000000000
+1776 = 11011110000
+2020 = 11111100011
+
+1. Converting Binary Numbers to Decimal Numbers
+Locate binary number to convert 
+Assess the value of each 1 and 0 
+Add all 1 values together
+Report number 
+
+2. Converting Decimal Numbers to Binary Numbers
+Locate decimal number to convert
+Write out binary sequence  #ie 1 2 4 8 16 32 etc
+Start at the highest number in the sequence that's lower than the decimal number  #if number is 82, start with 64
+Mark a 1 for every number in the sequence used to add to the decimal number
+Mark a 0 for every number in the sequence not used
+Report number 

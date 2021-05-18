@@ -1,0 +1,45 @@
+1. Make Cereal
+Locate bowl
+Locate spoon
+Locate Captain Crunch cereal
+Locate milk
+Place bowl on counter
+Open cereal box
+Pour cereal into bowl
+Close cereal
+Open milk
+Pour milk over cereal in bowl
+Close milk
+Place spoon in bowl
+
+2. Brushing Teeth
+Locate toothbrush 
+Locate toothpaste
+Open toothpaste
+Apply toothpaste to toothbrush
+Pick up toothbrush
+Insert toothbrush in mouth 
+Scrub all teeth and tongue 
+Extract toothbrush from mouth
+Locate sink
+Spit toothpaste from mouth into sink
+Locate water faucet handle on sink
+Turn on water using handle
+Rinse toothpaste off toothbrush
+Rinse mouth with water
+Turn water off
+Replace toothpaste
+Replace toothbrush
+
+3. Making Bed
+Locate bed
+Locate sheets
+Locate bottom bed sheet
+Apply bottom sheet to bed
+Locate top sheet
+Apply top sheet to bed
+Locate pillow case
+Apply pillow case to pillow
+Place pillow at one end of bed
+Locate comforter
+Apply comforter to bed
